@@ -1086,6 +1086,7 @@ footer .container .section a::after {
   }
   .hero-info ul{
     flex-direction: column;
+    padding: 10px;
   }
   .hero .container .hero-img img {
     width: 200px;
